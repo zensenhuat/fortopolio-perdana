@@ -1,0 +1,24 @@
+#navbar a {
+  color: azure;
+}
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #3e5879;
+}
+body {
+  background-color: #213555;
+}
+section {
+  padding-top: 5rem;
+}
+.navbar a {
+  padding: 15px;
+}
+#projek {
+  background-color: #3e5879;
+}
+p,
+h2,
+label {
+  color: white;
+}
