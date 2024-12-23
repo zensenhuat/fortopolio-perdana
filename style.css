@@ -2,7 +2,7 @@
   color: azure;
 }
 .jumbotron {
-  padding-top: 4rem;
+  padding-top: 6rem;
   background-color: #3e5879;
 }
 body {
@@ -21,4 +21,14 @@ p,
 h2,
 label {
   color: white;
+}
+
+.jumbotron img {
+  height: 200px;
+  width: 200px;
+}
+#navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 100;
 }
